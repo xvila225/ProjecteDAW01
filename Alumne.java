@@ -10,7 +10,7 @@ public class Alumne {
 	
 	/**
 	 * Funció per actualitzar el nom de l'Alumne
-	 * @param nomAl
+	 * @param nomAl jajaja
 	 */
 	public void setNom(String nomAl){
 		nom= nomAl;
