@@ -3,13 +3,13 @@ package gestioDades.aplicacio;
 public class Alumne {
 	
 	private String nom = new String("");
-	private int edat = 0;
+	private int edat = 50;
 	
 	
 	
 	
 	/**
-	 * Funció per actualitzar el nom de l'Alumne
+	 * FunciÃ³ per actualitzar el nom de l'Alumne
 	 * @param nomAl jajaja
 	 */
 	public void setNom(String nomAl){
